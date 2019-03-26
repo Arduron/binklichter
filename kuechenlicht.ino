@@ -1,5 +1,5 @@
 #include <Adafruit_NeoPixel.h> /* Adafruit NeoPixel 1.1.8 */
-
+//test
 // hardware setup
 #define BUTTON_PIN 2
 #define LED_STRIP_DATA_PIN 7
